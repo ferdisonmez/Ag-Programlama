@@ -1,0 +1,1 @@
+1 SELECT DISTINCT Series_reference, Period FROM TABLE;

@@ -1,0 +1,12 @@
+[Wed Jun  9 21:46:58 2021] Dataset loaded in 0.000322 seconds with 79 records.
+[Wed Jun  9 21:46:58 2021] Thread #7: waiting for connection
+[Wed Jun  9 21:46:58 2021] Thread #6: waiting for connection
+[Wed Jun  9 21:46:58 2021] Thread #5: waiting for connection
+[Wed Jun  9 21:46:58 2021] Thread #4: waiting for connection
+[Wed Jun  9 21:46:58 2021] Thread #3: waiting for connection
+[Wed Jun  9 21:46:58 2021] Thread #2: waiting for connection
+[Wed Jun  9 21:46:58 2021] Thread #1: waiting for connection
+[Wed Jun  9 21:46:58 2021] Thread #0: waiting for connection
+[Wed Jun  9 21:47:08 2021] A connection has been delegated to thread id #7, system load
+[Wed Jun  9 21:47:08 2021] Thread #7: searching database for 1 SELECT DISTINCT Series_reference Period FROM TABLE
+[Wed Jun  9 21:47:08 2021] Thread #7: waiting for connection
